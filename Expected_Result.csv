@@ -1,0 +1,3 @@
+Order ID,AWB Number,Total weight as per X (KG),Weight slab as per X (KG),Total weight as per Courier Company (KG),Weight slab charged by Courier Company (KG),Delivery Zone as per X,Delivery Zone charged by Courier Company,Expected Charge as per X (Rs.),Charges Billed by Courier Company (Rs.) ,Difference Between Expected Charges and Billed Charges (Rs.)
+2001806232,1091117222124,1.3,1.5,1.3,1.5,D,D,135,135,0
+2001806210,1091117221940,0.22,0.5,2.92,3,B,B,33,174.5,-141.5
